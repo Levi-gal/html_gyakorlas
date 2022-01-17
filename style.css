@@ -9,3 +9,7 @@ a:hover {
     color:lime;
     text-decoration: none;
 }
+
+img:hover {
+    width: 400px;
+}
